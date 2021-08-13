@@ -1,0 +1,10 @@
+"name": "VULCANO",
+    "website": "https://www.vulcanotoken.com",
+    "description": VULCANO is a token for everyone the token has the same properties as a volcano.",
+    "explorer": "https://bscscan.com/address/0xd8c76cc6aeec7494c97f00a53694a8b76067c04c#events",
+    "type": "BEP20",
+    "symbol": "VULCANO",
+    "decimals":9,
+    "status": "active",
+    "id": "0xD8C76Cc6aEEC7494c97f00a53694a8b76067C04c"
+}
